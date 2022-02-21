@@ -1,4 +1,4 @@
 nav:
-  - News: news.md
+  - News: index.md
   - Overview: overview.md
   - Architecture: architecture.md
