@@ -4,3 +4,4 @@ nav:
   - Architecture: architecture.md
   - SubMenu:
     - item.md
+    - ar.md
