@@ -1,7 +1,8 @@
-# nav:
-#   - News: index.md
-#   - Overview: overview.md
-#   - Architecture: architecture.md
-#   - SubMenu:
-#     - item.md
-#     - ar.md
+nav:
+  - News: index.md
+  - Overview: overview.md
+  - Architecture: architecture.md
+  - SubMenu:
+    - item.md
+    - ar.md
+    - def-slash.md
